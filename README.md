@@ -59,7 +59,7 @@ The fifth and final step is extracting segments. This involves grouping consumer
 The individual task assigned was to replicate the McDonald's case study in Python. The purpose of this task was to provide a practical application of the concepts learned during the study period. Each team member was required to provide one GitHub link to showcase their work.
 
 GitHub Repository Link : 
-      
+      https://github.com/RushikeshSonwane03/McDonalds-Market-Segmentation.git
 
 
 Conclusion:
