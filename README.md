@@ -1,11 +1,8 @@
 # McDonalds-Market-Segmentation
-Market Segmentation" By – RUSHIKESH SONWANE
+"Market Segmentation" By – RUSHIKESH SONWANE
 
 
 
-
-"Market Segmentation"
-By – RUSHIKESH SONWANE
 
 Introduction:
 The purpose of this report is to provide a summary of the fundamentals of market segmentation that were covered during the ten-day study period assigned by Feynn Labs. In addition, the report includes an individual task assigned to replicate the McDonald's case study in Python, with one GitHub link from each team member.
